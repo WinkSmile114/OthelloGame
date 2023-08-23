@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "485080af-5360-4eaa-848f-468086e063eb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "RedPoint": {
+      "ver": "1.0.4",
+      "uuid": "cc814a33-2321-4ac1-9cd2-655a59c4c12c",
+      "rawTextureUuid": "485080af-5360-4eaa-848f-468086e063eb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 9,
+      "trimY": 9,
+      "width": 43,
+      "height": 43,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
